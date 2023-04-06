@@ -1,0 +1,2 @@
+#EXTINF:-1 tvg-id="Smithsonian Network" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/smithsonian-channel-us.png" group-title="USA Documentaries",SMITHSONIAN CHANNEL
+http://stb.velocity.watch:8080/kjohnnielou2/john/110793
